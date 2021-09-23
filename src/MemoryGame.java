@@ -1,19 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title:    P02 Memory Game
-// Course:   CS 300 Fall 2020
-//
-// Author:   Kedar Bhide
-// Email:    kvbhide@wisc.edu
-// Lecturer: Hobbes LeGault
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons:         none
-// Online Sources:  none
-//
-///////////////////////////////////////////////////////////////////////////////
-
 import java.io.File;
 import processing.core.PApplet;
 import processing.core.PImage;
